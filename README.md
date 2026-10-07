@@ -75,9 +75,9 @@ Además, cada intent implícito está dentro de un `try/catch` por si el teléfo
 |---|---|---|
 | ![principal](capturas/01_principal.png) | ![mapa](capturas/02_maps.png) | ![calendario](capturas/03_calendario.png) |
 
-| Detalle del auto | Formulario con error | Confirmación |
-|---|---|---|
-| ![detalle](capturas/04_detalle.png) | ![form](capturas/05_formulario_error.png) | ![confirmar](capturas/06_confirmacion.png) |
+| Detalle del auto                    | Formulario con error            | Confirmación |
+|-------------------------------------|---------------------------------|-|
+| ![detalle](capturas/04_llamada.png) | ![form](capturas/05_correo.png)  |
 
 ---
 
