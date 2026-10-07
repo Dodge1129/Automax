@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Concesionaria" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/rojo_auto</item>
+        <item name="colorPrimaryVariant">@color/rojo_auto_oscuro</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="colorSecondary">@color/rojo_auto</item>
+        <item name="colorOnSecondary">@color/blanco</item>
+    </style>
+</resources>

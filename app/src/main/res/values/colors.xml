@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rojo_auto">#B71C1C</color>
+    <color name="rojo_auto_oscuro">#7F0000</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>

@@ -1,0 +1,7 @@
+Guardar aqui las capturas de pantalla (minimo 4) con estos nombres:
+01_principal.png
+02_maps.png
+03_calendario.png
+04_detalle.png
+05_formulario_error.png
+06_confirmacion.png
